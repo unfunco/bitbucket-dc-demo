@@ -1,5 +1,8 @@
 # Bitbucket Data Center demo
 
+> [!NOTE]
+> This repository won't receive any further development.
+
 Spin up a local, fully provisioned [Bitbucket Data Center][bbdc] backed by
 PostgreSQL for testing. It uses an Atlassian 3-hour [timebomb license][timebomb]
 and the container auto-setup variables, so there is no setup wizard and no
